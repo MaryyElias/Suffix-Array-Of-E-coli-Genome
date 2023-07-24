@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\win 10\source\repos\MergeSort\MergeSort\Source.cpp(143,50): error C2664: 'void printArray(int [],int,char *[])': cannot convert argument 3 from 'char *' to 'char *[]'
+C:\Users\win 10\source\repos\MergeSort\MergeSort\Source.cpp(143,49): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+C:\Users\win 10\source\repos\MergeSort\MergeSort\Source.cpp(92,6): message : see declaration of 'printArray'
